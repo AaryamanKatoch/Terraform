@@ -1,0 +1,2 @@
+bucket_project_id    = "project-id"
+bucket_region        = "required-region"
